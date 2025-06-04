@@ -18,10 +18,10 @@ const fontSans = FontSans({
 
 const title = 'Obscend'
 const description =
-  'A fully open-source AI-powered answer engine with a generative UI.'
+  'Obscend is a sleek, high-performance ChatGPT wrapper built for power users and developers who demand speed, clarity, and control.'
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://obscend.sh'),
+  metadataBase: new URL('https://obscend.ai'),
   title,
   description,
   openGraph: {

@@ -120,6 +120,9 @@ export function ChatPanel({
           <p className="text-center text-3xl font-semibold">
             How can I help you today?
           </p>
+          <p className="text-center text-muted-foreground text-base mt-2">
+            Currently supports only chatgpt models for demo purposes.
+          </p>
         </div>
       )}
       <form
